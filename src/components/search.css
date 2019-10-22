@@ -1,0 +1,12 @@
+.Search{
+    position: absolute;
+    top: 65px;
+    right: 700px;
+}
+
+.Search > input{
+    border: 1px solid grey;
+    width: 170px;
+    height: 20px;
+    border-radius: 20%;
+}
